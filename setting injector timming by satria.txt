@@ -1,0 +1,5 @@
+1. set semua injector timming 540
+2. trus analisis pilih file core nya trus advance
+3. blok semua tps klik kanan auto arrange
+4. balik ke file data trus injector timming
+5. blok semua injector timming klik kanan ADD VALUE -90
